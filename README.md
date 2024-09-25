@@ -1,7 +1,7 @@
 # Work_Shop_2
 
-## Name : Jeshwanth kumar
-## Reg.no: 212223240114
+## Name : G Keerthana
+## Reg.no: 212223240045
 ## Aim: Data Cleaning and Data Analysis.
 
 ## Output:
